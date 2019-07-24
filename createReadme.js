@@ -18,7 +18,7 @@ request(
 #### issues
         `;
         body.forEach(i => {
-          issues += `\r\n ${i.number}. [${i.title}](${i.url})`;
+          issues += `\r\n ${i.number}. [${i.title}](${i.html_url})`;
         });
         fs.writeFile(path.dirname(__filename) + '/README.md', issues, () => {
           console.log('success');
