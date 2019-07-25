@@ -37,7 +37,7 @@ request(
         fs.writeFile(path.dirname(__filename) + '/README.md', issues, () => {
           console.log('create successful!');
           const date = moment().format('YYYY-MM-DD')
-          execSync("git add README.md")
+          execSync("git add -A")
           execSync(`git commit -am '${date} new daily 💐💐👏👏'`)
           execSync('git push origin master')
         });
