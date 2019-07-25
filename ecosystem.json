@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "github hooks app",
+      "script": "./app.js",
+      "instances": 1,
+      "exec_mode": "fork_mode",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 8090
+      }
+    }
+  ]
+}
