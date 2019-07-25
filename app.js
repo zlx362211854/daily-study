@@ -11,9 +11,9 @@ const server = app.listen(process.env.PORT || 8090, function() {
 app.use(bodyParser.urlencoded({extend:false}));
 app.use(bodyParser.json());
 app.use('/issues/new', function(req, res) {
-  console.log('有新的issue', req.body);
+  console.log('有新的issue 👏');
   try {
-    if (req.body.action === 'opened') {
+    if (req.body.payload.action === 'opened' || req.body.payload.action === 'deleted') {
       require('./createReadme')
     }
   } catch (err) {
