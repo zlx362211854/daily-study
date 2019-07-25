@@ -2,8 +2,6 @@
  > daily-study 每日一问
 #### issues
 * #### 2019-07-25
- [fdg](https://github.com/zlx362211854/daily-study/issues/15) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
  [day 2.用css实现玻璃磨砂效果](https://github.com/zlx362211854/daily-study/issues/4) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [day 2.ajax产生二次请求原因及解决方式](https://github.com/zlx362211854/daily-study/issues/3) （`Created by` [roxy0724](https://github.com/roxy0724)）
