@@ -38,7 +38,7 @@ request(
           console.log('create successful!');
           const date = moment().format('YYYY-MM-DD')
           execSync("git add README.md")
-          execSync(`git commit -am '${date} new daily'`)
+          execSync(`git commit -am '${date} new daily 💐💐👏👏'`)
           execSync('git push origin master')
         });
       } catch (err) {
