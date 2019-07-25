@@ -29,7 +29,7 @@ request(
         splitByDate.forEach((item, date) => {
           let dateString = `\r\n* #### ${date}`;
           item.forEach(i => {
-            dateString += `\r\n [${i.title}](${i.html_url})`;
+            dateString += `\r\n [${i.title}](${i.html_url}) （\`Created by\` [${i.user.login}](${i.user.html_url})）`;
           });
           issues += dateString;
         });
