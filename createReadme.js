@@ -1,6 +1,7 @@
 var request = require('request');
 var path = require('path');
 var fs = require('fs');
+var execSync = require('child_process').execSync;
 var moment = require('moment');
 request(
   {
@@ -34,7 +35,11 @@ request(
           issues += dateString;
         });
         fs.writeFile(path.dirname(__filename) + '/README.md', issues, () => {
-          console.log('success');
+          console.log('create successful!');
+          const date = moment().format('YYYY-MM-DD')
+          execSync("git add README.md")
+          execSync(`git commit -am '${date} new daily'`)
+          execSync('git push origin master')
         });
       } catch (err) {
         console.log('something error: ', err);
