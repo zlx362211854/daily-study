@@ -13,7 +13,8 @@ app.use(bodyParser.json());
 app.use('/issues/new', function(req, res) {
   console.log('有新的issue 👏');
   try {
-    if (req.body.payload.action === 'opened' || req.body.payload.action === 'deleted') {
+    var payload = JSON.parse(req.body.payload)
+    if (payload.action === 'opened' || payload.action === 'deleted') {
       require('./createReadme')
     }
   } catch (err) {
