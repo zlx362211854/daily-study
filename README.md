@@ -2,7 +2,7 @@
  > daily-study 每日一问
 #### issues
 * #### 2019-07-25
- [test](https://github.com/zlx362211854/daily-study/issues/16) （`Created by` [goldEli](https://github.com/goldEli)）
+ [day 3](https://github.com/zlx362211854/daily-study/issues/17) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [day 2.用css实现玻璃磨砂效果](https://github.com/zlx362211854/daily-study/issues/4) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
