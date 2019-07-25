@@ -11,7 +11,7 @@ const server = app.listen(process.env.PORT || 8090, function() {
 app.use(bodyParser.urlencoded({extend:false}));
 app.use(bodyParser.json());
 app.use('/issues/new', function(req, res) {
-  console.log('有新的issue 👏', req.body.payload.action);
+  console.log('有新的issue 👏');
   try {
     var payload = JSON.parse(req.body.payload)
     if (payload.action === 'opened' || payload.action === 'deleted') {
