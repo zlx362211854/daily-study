@@ -1,0 +1,24 @@
+{
+  "name": "daily-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createReadme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "node ./createReadme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlx362211854/daily-study.git"
+  },
+  "author": "zlx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlx362211854/daily-study/issues"
+  },
+  "homepage": "https://github.com/zlx362211854/daily-study#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  }
+}
