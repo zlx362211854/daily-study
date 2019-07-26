@@ -2,6 +2,8 @@
  > daily-study 每日一问
 #### issues
 * #### 2019-07-26
+ [5. javascript是单线程语言，那他的异步机制是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/22) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
  [4. Draw a triangle with css](https://github.com/zlx362211854/daily-study/issues/18) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-07-25
