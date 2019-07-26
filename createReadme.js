@@ -30,16 +30,20 @@ request(
         splitByDate.forEach((item, date) => {
           let dateString = `\r\n* #### ${date}`;
           item.forEach(i => {
-            dateString += `\r\n [${i.title}](${i.html_url}) （\`Created by\` [${i.user.login}](${i.user.html_url})）\r\n`;
+            dateString += `\r\n [${i.title}](${i.html_url}) （\`Created by\` [${
+              i.user.login
+            }](${i.user.html_url})）\r\n`;
           });
           issues += dateString;
         });
         fs.writeFile(path.dirname(__filename) + '/README.md', issues, () => {
           console.log('create successful!');
-          const date = moment().format('YYYY-MM-DD')
-          execSync("git add README.md")
-          execSync(`git commit -m "${date} new daily 💐💐👏👏"`)
-          execSync('git push origin master')
+          const date = moment().format('YYYY-MM-DD');
+          execSync('git checkout .');
+          execSync('git pull origin master');
+          execSync('git add README.md');
+          execSync(`git commit -m "${date} new daily 💐💐👏👏"`);
+          execSync('git push origin master');
         });
       } catch (err) {
         console.log('something error: ', err);
