@@ -2,6 +2,8 @@
  > daily-study 每日一问
 #### issues
 * #### 2019-07-26
+ [gggg](https://github.com/zlx362211854/daily-study/issues/20) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
  [day 3. Draw a triangle with css](https://github.com/zlx362211854/daily-study/issues/18) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-07-25
