@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-07-29
+ [6.setTimeout、Promise、Async/Await 的区别](https://github.com/zlx362211854/daily-study/issues/23) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-07-26
  [5. javascript是单线程语言，那他的异步机制是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/22) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
