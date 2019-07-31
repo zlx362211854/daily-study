@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-07-31
+ [8. 谈谈https加密是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/25) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-07-30
  [7. 节流和防抖是什么？有什么区别？怎么实现？](https://github.com/zlx362211854/daily-study/issues/24) （`Created by` [goldEli](https://github.com/goldEli)）
 
