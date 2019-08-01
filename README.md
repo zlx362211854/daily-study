@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-01
+ [9.什么是视差滚动？如何实现视差滚动的效果？](https://github.com/zlx362211854/daily-study/issues/27) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-07-31
  [8. 谈谈https加密是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/25) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
