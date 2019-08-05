@@ -1,9 +1,6 @@
 
  > daily-study 每日一问
 #### issues
-* #### 2019-08-05
- [9. 什么是一致性hash算法，有什么用处？](https://github.com/zlx362211854/daily-study/issues/29) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
 * #### 2019-08-02
  [10. JavaScript 模块化是什么？](https://github.com/zlx362211854/daily-study/issues/28) （`Created by` [goldEli](https://github.com/goldEli)）
 
