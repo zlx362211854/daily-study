@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-06
+ [12.算法题之「移动零」](https://github.com/zlx362211854/daily-study/issues/31) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-08-05
  [11. 什么是一致性hash算法，有什么用处？](https://github.com/zlx362211854/daily-study/issues/30) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
