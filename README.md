@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-07
+ [13. 介绍下浏览器的重绘和回流（Repaint & Reflow）](https://github.com/zlx362211854/daily-study/issues/32) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-08-06
  [12.算法题之「移动零」](https://github.com/zlx362211854/daily-study/issues/31) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
