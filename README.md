@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-08
+ [14. 介绍一下DataTransfer对象](https://github.com/zlx362211854/daily-study/issues/33) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-08-07
  [13. 介绍下浏览器的重绘和回流（Repaint & Reflow）](https://github.com/zlx362211854/daily-study/issues/32) （`Created by` [goldEli](https://github.com/goldEli)）
 
