@@ -1,9 +1,6 @@
 
  > daily-study 每日一问
 #### issues
-* #### 2019-08-09
- [test_ttile](https://github.com/zlx362211854/daily-study/issues/34) （`Created by` [goldEli](https://github.com/goldEli)）
-
 * #### 2019-08-08
  [14. 介绍一下DataTransfer对象](https://github.com/zlx362211854/daily-study/issues/33) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
