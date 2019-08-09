@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-09
+ [15.使div 水平垂直居中](https://github.com/zlx362211854/daily-study/issues/35) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-08-08
  [14. 介绍一下DataTransfer对象](https://github.com/zlx362211854/daily-study/issues/33) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
