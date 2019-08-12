@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-12
+ [16. 浏览器输入 URL 到页面呈现，中间发生了什么？](https://github.com/zlx362211854/daily-study/issues/36) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-08-09
  [15.使div 水平垂直居中](https://github.com/zlx362211854/daily-study/issues/35) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
