@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-13
+ [17. 自己实现一个Math.pow()函数](https://github.com/zlx362211854/daily-study/issues/37) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-08-12
  [16. 浏览器输入 URL 到页面呈现，中间发生了什么？](https://github.com/zlx362211854/daily-study/issues/36) （`Created by` [goldEli](https://github.com/goldEli)）
 
