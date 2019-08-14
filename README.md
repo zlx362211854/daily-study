@@ -1,6 +1,9 @@
 
  > daily-study 每日一问
 #### issues
+* #### 2019-08-14
+ [18.箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么？](https://github.com/zlx362211854/daily-study/issues/38) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-08-13
  [17. 自己实现一个Math.pow()函数](https://github.com/zlx362211854/daily-study/issues/37) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
