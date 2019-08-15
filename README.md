@@ -2,8 +2,6 @@
  > daily-study 每日一问
 #### issues
 * #### 2019-08-15
- [Big bug.](https://github.com/zlx362211854/daily-study/issues/40) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
  [19. Cookie，Session，Token](https://github.com/zlx362211854/daily-study/issues/39) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-08-14
