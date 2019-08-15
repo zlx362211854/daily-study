@@ -2,8 +2,6 @@
  > daily-study 每日一问
 #### issues
 * #### 2019-08-15
- [some test](https://github.com/zlx362211854/daily-study/issues/44) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
  [dsdf](https://github.com/zlx362211854/daily-study/issues/43) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [fds](https://github.com/zlx362211854/daily-study/issues/42) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
