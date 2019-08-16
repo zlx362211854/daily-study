@@ -3,9 +3,6 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-08-16
- [das](https://github.com/zlx362211854/daily-study/issues/49) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
 * #### 2019-08-15
  [19. Cookie，Session，Token](https://github.com/zlx362211854/daily-study/issues/39) （`Created by` [goldEli](https://github.com/goldEli)）
 
