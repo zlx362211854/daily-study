@@ -15,6 +15,8 @@ request(
     if (!error && response.statusCode == 200 && body) {
       let issues = `
  > daily-study 每日一问
+
+ [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues`;
       try {
         body = JSON.parse(body);
