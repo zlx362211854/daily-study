@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-08-19
+ [21.请详细描述AJAX的工作原理](https://github.com/zlx362211854/daily-study/issues/51) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-08-16
  [20. 寻找数组中的单一元素](https://github.com/zlx362211854/daily-study/issues/50) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
