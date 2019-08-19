@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-08-19
+ [1231](https://github.com/zlx362211854/daily-study/issues/52) （`Created by` [goldEli](https://github.com/goldEli)）
+
  [21.请详细描述AJAX的工作原理](https://github.com/zlx362211854/daily-study/issues/51) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
 * #### 2019-08-16
