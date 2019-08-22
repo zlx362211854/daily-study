@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-08-23
+ [25. 模拟实现 new 运算符](https://github.com/zlx362211854/daily-study/issues/56) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-08-22
  [24.解释DOM的事件流和事件委托](https://github.com/zlx362211854/daily-study/issues/55) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
