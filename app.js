@@ -25,7 +25,8 @@ app.use('/issues/new', function(req, res) {
               "content": `> ${payload.sender.login} created a new issue \r\n\r\n [Click here for details](${payload.issue.url})`
             }
           },
-          function(err,httpResponse,body) {
+          function(error, response, body) {
+            if (error) {console.log('error:', error)}
             if (!error && response.statusCode == 200 && body) {
               console.log('successful send messgae to wechat');
             }
