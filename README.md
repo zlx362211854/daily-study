@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-08-23
+ [sdad](https://github.com/zlx362211854/daily-study/issues/59) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
  [25. 模拟实现 new 运算符](https://github.com/zlx362211854/daily-study/issues/56) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-08-22
