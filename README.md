@@ -1,6 +1,26 @@
 
  > daily-study 每日一问
+
+ [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-08-23
+ [25. 模拟实现 new 运算符](https://github.com/zlx362211854/daily-study/issues/56) （`Created by` [goldEli](https://github.com/goldEli)）
+
+* #### 2019-08-22
+ [24.解释DOM的事件流和事件委托](https://github.com/zlx362211854/daily-study/issues/55) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
+* #### 2019-08-21
+ [23. 发布一个包到npm仓库，打印：hello world即可。](https://github.com/zlx362211854/daily-study/issues/54) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+* #### 2019-08-20
+ [22.校验代码括弧是否有效](https://github.com/zlx362211854/daily-study/issues/53) （`Created by` [goldEli](https://github.com/goldEli)）
+
+* #### 2019-08-19
+ [21.请详细描述AJAX的工作原理](https://github.com/zlx362211854/daily-study/issues/51) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
+* #### 2019-08-16
+ [20. 寻找数组中的单一元素](https://github.com/zlx362211854/daily-study/issues/50) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-08-15
  [19. Cookie，Session，Token](https://github.com/zlx362211854/daily-study/issues/39) （`Created by` [goldEli](https://github.com/goldEli)）
 
