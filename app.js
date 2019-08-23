@@ -18,6 +18,9 @@ app.use('/issues/new', function(req, res) {
     if (payload.action === 'opened' || payload.action === 'deleted') {
       if (payload.action === 'opened') {
         request.post({
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0'
+          },
           url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=b23250ea-d4b1-4060-8322-ad6781898cd5',
           form: {
             msgtype: 'markdown',
