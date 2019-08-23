@@ -17,22 +17,20 @@ app.use('/issues/new', function(req, res) {
     var payload = JSON.parse(req.body.payload);
     if (payload.action === 'opened' || payload.action === 'deleted') {
       if (payload.action === 'opened') {
-        request.post(
-          'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=b23250ea-d4b1-4060-8322-ad6781898cd5',
-          {
-            form: {
-              msgtype: 'markdown',
-              markdown: {
-                "content": `> ${payload.sender.login} created a new issue \r\n\r\n [Click here for details](${payload.issue.url})`
-              }
+        request.post({
+          url: 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=b23250ea-d4b1-4060-8322-ad6781898cd5',
+          form: {
+            msgtype: 'markdown',
+            markdown: {
+              "content": `> ${payload.sender.login} created a new issue \r\n\r\n [Click here for details](${payload.issue.url})`
             }
           },
-          (error, response, body = []) => {
+          function(err,httpResponse,body) {
             if (!error && response.statusCode == 200 && body) {
               console.log('successful send messgae to wechat');
             }
           }
-        );
+        });
       }
       execSync('node ./createReadme.js');
     }
