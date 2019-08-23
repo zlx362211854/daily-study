@@ -4,6 +4,10 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-08-23
+ [2222](https://github.com/zlx362211854/daily-study/issues/61) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+ [fgfd111](https://github.com/zlx362211854/daily-study/issues/60) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
  [25. 模拟实现 new 运算符](https://github.com/zlx362211854/daily-study/issues/56) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-08-22
