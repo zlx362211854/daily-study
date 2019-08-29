@@ -3,8 +3,11 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-08-29
+ [28.React组件通信](https://github.com/zlx362211854/daily-study/issues/65) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-08-28
- [28. 实现千位分隔符](https://github.com/zlx362211854/daily-study/issues/64) （`Created by` [goldEli](https://github.com/goldEli)）
+ [27. 实现千位分隔符](https://github.com/zlx362211854/daily-study/issues/64) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-08-26
  [26. 谈谈js中this指向](https://github.com/zlx362211854/daily-study/issues/63) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
