@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-02
+ [30. JavaScript 继承](https://github.com/zlx362211854/daily-study/issues/67) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-08-30
  [29. 说说React hook](https://github.com/zlx362211854/daily-study/issues/66) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
