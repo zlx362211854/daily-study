@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-03
+ [31.介绍下前端加密的常见场景和方法](https://github.com/zlx362211854/daily-study/issues/68) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-09-02
  [30. JavaScript 继承](https://github.com/zlx362211854/daily-study/issues/67) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -87,6 +90,3 @@
  [3. 用css实现玻璃磨砂效果](https://github.com/zlx362211854/daily-study/issues/4) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [2. ajax产生二次请求原因及解决方式](https://github.com/zlx362211854/daily-study/issues/3) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-07-24
- [1. js观察者模式如何实现](https://github.com/zlx362211854/daily-study/issues/1) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
