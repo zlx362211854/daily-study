@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-05
+ [33. 介绍下 BFC、IFC、GFC 和 FFC](https://github.com/zlx362211854/daily-study/issues/70) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-09-04
  [32. 说说transition、animation、transform的作用](https://github.com/zlx362211854/daily-study/issues/69) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -88,6 +91,3 @@
  [5. javascript是单线程语言，那他的异步机制是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/22) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [4. Draw a triangle with css](https://github.com/zlx362211854/daily-study/issues/18) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-07-25
- [3. 用css实现玻璃磨砂效果](https://github.com/zlx362211854/daily-study/issues/4) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
