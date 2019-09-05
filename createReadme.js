@@ -38,6 +38,7 @@ request(
           });
           issues += dateString;
         });
+        issues += "\r\n [view more](https://github.com/zlx362211854/daily-study/issues)"
         fs.writeFile(path.dirname(__filename) + '/README.md', issues, () => {
           console.log('create successful!');
           const date = moment().format('YYYY-MM-DD');
