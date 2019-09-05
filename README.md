@@ -4,8 +4,6 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-09-05
- [是否是](https://github.com/zlx362211854/daily-study/issues/71) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
  [33. 介绍下 BFC、IFC、GFC 和 FFC](https://github.com/zlx362211854/daily-study/issues/70) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-09-04
@@ -91,5 +89,7 @@
 
 * #### 2019-07-26
  [5. javascript是单线程语言，那他的异步机制是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/22) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+ [4. Draw a triangle with css](https://github.com/zlx362211854/daily-study/issues/18) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
