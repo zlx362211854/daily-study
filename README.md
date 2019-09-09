@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-09
+ [35. 介绍下REST api和GraphQL api](https://github.com/zlx362211854/daily-study/issues/73) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-09-06
  [34.svg和canvas的概念和区别](https://github.com/zlx362211854/daily-study/issues/72) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-07-29
  [6.setTimeout、Promise、Async/Await 的区别](https://github.com/zlx362211854/daily-study/issues/23) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-07-26
- [5. javascript是单线程语言，那他的异步机制是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/22) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
