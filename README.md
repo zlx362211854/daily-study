@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-12
+ [38. 验证密码](https://github.com/zlx362211854/daily-study/issues/76) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-09-11
  [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [vernll](https://github.com/vernll)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-01
  [9.什么是视差滚动？如何实现视差滚动的效果？](https://github.com/zlx362211854/daily-study/issues/27) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-07-31
- [8. 谈谈https加密是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/25) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
