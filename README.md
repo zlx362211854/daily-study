@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-11
+ [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [vernll](https://github.com/vernll)）
+
 * #### 2019-09-10
  [36. word-wrap、word-break和white-space有什么区别？](https://github.com/zlx362211854/daily-study/issues/74) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-07-31
  [8. 谈谈https加密是怎么实现的？](https://github.com/zlx362211854/daily-study/issues/25) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-07-30
- [7. 节流和防抖是什么？有什么区别？怎么实现？](https://github.com/zlx362211854/daily-study/issues/24) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
