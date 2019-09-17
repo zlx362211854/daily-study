@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-17
+ [40.首屏加载优化方案](https://github.com/zlx362211854/daily-study/issues/78) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-09-16
  [39. 什么是高阶函数，高阶组件？](https://github.com/zlx362211854/daily-study/issues/77) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-05
  [11. 什么是一致性hash算法，有什么用处？](https://github.com/zlx362211854/daily-study/issues/30) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-08-02
- [10. JavaScript 模块化是什么？](https://github.com/zlx362211854/daily-study/issues/28) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
