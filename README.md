@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-18
+ [41. [] + {} 和 {} + [] 的 结果一样吗？为什么？](https://github.com/zlx362211854/daily-study/issues/79) （`Created by` [vernll](https://github.com/vernll)）
+
 * #### 2019-09-17
  [40.首屏加载优化方案](https://github.com/zlx362211854/daily-study/issues/78) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-06
  [12.算法题之「移动零」](https://github.com/zlx362211854/daily-study/issues/31) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-08-05
- [11. 什么是一致性hash算法，有什么用处？](https://github.com/zlx362211854/daily-study/issues/30) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
