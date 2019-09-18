@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-19
+ [42. Map 和 WeakMap](https://github.com/zlx362211854/daily-study/issues/80) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-09-18
  [41. [] + {} 和 {} + [] 的 结果一样吗？为什么？](https://github.com/zlx362211854/daily-study/issues/79) （`Created by` [vernll](https://github.com/vernll)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-07
  [13. 介绍下浏览器的重绘和回流（Repaint & Reflow）](https://github.com/zlx362211854/daily-study/issues/32) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-08-06
- [12.算法题之「移动零」](https://github.com/zlx362211854/daily-study/issues/31) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
