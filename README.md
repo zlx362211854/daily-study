@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-20
+ [43. 介绍下函数式编程和柯里化](https://github.com/zlx362211854/daily-study/issues/81) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-09-19
  [42. Map 和 WeakMap](https://github.com/zlx362211854/daily-study/issues/80) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-08
  [14. 介绍一下DataTransfer对象](https://github.com/zlx362211854/daily-study/issues/33) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-08-07
- [13. 介绍下浏览器的重绘和回流（Repaint & Reflow）](https://github.com/zlx362211854/daily-study/issues/32) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
