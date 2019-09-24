@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-24
+ [45. 为什么 V8 JS引擎更快？](https://github.com/zlx362211854/daily-study/issues/83) （`Created by` [VernKri](https://github.com/VernKri)）
+
 * #### 2019-09-23
  [44.React怎么做数据的检查和变化](https://github.com/zlx362211854/daily-study/issues/82) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -13,7 +16,7 @@
  [42. Map 和 WeakMap](https://github.com/zlx362211854/daily-study/issues/80) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-09-18
- [41. [] + {} 和 {} + [] 的 结果一样吗？为什么？](https://github.com/zlx362211854/daily-study/issues/79) （`Created by` [vernll](https://github.com/vernll)）
+ [41. [] + {} 和 {} + [] 的 结果一样吗？为什么？](https://github.com/zlx362211854/daily-study/issues/79) （`Created by` [VernKri](https://github.com/VernKri)）
 
 * #### 2019-09-17
  [40.首屏加载优化方案](https://github.com/zlx362211854/daily-study/issues/78) （`Created by` [roxy0724](https://github.com/roxy0724)）
@@ -25,7 +28,7 @@
  [38. 验证密码](https://github.com/zlx362211854/daily-study/issues/76) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-09-11
- [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [vernll](https://github.com/vernll)）
+ [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [VernKri](https://github.com/VernKri)）
 
 * #### 2019-09-10
  [36. word-wrap、word-break和white-space有什么区别？](https://github.com/zlx362211854/daily-study/issues/74) （`Created by` [goldEli](https://github.com/goldEli)）
@@ -89,8 +92,5 @@
 
 * #### 2019-08-12
  [16. 浏览器输入 URL 到页面呈现，中间发生了什么？](https://github.com/zlx362211854/daily-study/issues/36) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-08-09
- [15.使div 水平垂直居中](https://github.com/zlx362211854/daily-study/issues/35) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
