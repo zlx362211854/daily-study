@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-25
+ [46. 如何获取页面渲染时间？](https://github.com/zlx362211854/daily-study/issues/84) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-09-24
  [45. 为什么 V8 JS引擎更快？](https://github.com/zlx362211854/daily-study/issues/83) （`Created by` [VernKri](https://github.com/VernKri)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-13
  [17. 自己实现一个Math.pow()函数](https://github.com/zlx362211854/daily-study/issues/37) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-08-12
- [16. 浏览器输入 URL 到页面呈现，中间发生了什么？](https://github.com/zlx362211854/daily-study/issues/36) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
