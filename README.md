@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-26
+ [47. 实现中文名根据首字母排序](https://github.com/zlx362211854/daily-study/issues/85) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-09-25
  [46. 如何获取页面渲染时间？](https://github.com/zlx362211854/daily-study/issues/84) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-14
  [18.箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么？](https://github.com/zlx362211854/daily-study/issues/38) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-08-13
- [17. 自己实现一个Math.pow()函数](https://github.com/zlx362211854/daily-study/issues/37) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
