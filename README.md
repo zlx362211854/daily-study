@@ -3,6 +3,12 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-09-30
+ [50. 常见的浏览器内核有哪些?](https://github.com/zlx362211854/daily-study/issues/88) （`Created by` [goldEli](https://github.com/goldEli)）
+
+* #### 2019-09-28
+ [49.尽最大可能详细描述强缓存和协商缓存步骤](https://github.com/zlx362211854/daily-study/issues/87) （`Created by` [VernKri](https://github.com/VernKri)）
+
 * #### 2019-09-27
  [48.前端如何实现即时通讯](https://github.com/zlx362211854/daily-study/issues/86) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -86,11 +92,5 @@
 
 * #### 2019-08-19
  [21.请详细描述AJAX的工作原理](https://github.com/zlx362211854/daily-study/issues/51) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-08-16
- [20. 寻找数组中的单一元素](https://github.com/zlx362211854/daily-study/issues/50) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-08-15
- [19. Cookie，Session，Token](https://github.com/zlx362211854/daily-study/issues/39) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
