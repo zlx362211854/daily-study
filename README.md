@@ -3,11 +3,14 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-10
+ [51.谈谈对 Node.js 异步 IO 机制的理解](https://github.com/zlx362211854/daily-study/issues/89) （`Created by` [vern-kri](https://github.com/vern-kri)）
+
 * #### 2019-09-30
  [50. 常见的浏览器内核有哪些?](https://github.com/zlx362211854/daily-study/issues/88) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-09-28
- [49.尽最大可能详细描述强缓存和协商缓存步骤](https://github.com/zlx362211854/daily-study/issues/87) （`Created by` [VernKri](https://github.com/VernKri)）
+ [49.尽最大可能详细描述强缓存和协商缓存步骤](https://github.com/zlx362211854/daily-study/issues/87) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
 * #### 2019-09-27
  [48.前端如何实现即时通讯](https://github.com/zlx362211854/daily-study/issues/86) （`Created by` [roxy0724](https://github.com/roxy0724)）
@@ -19,7 +22,7 @@
  [46. 如何获取页面渲染时间？](https://github.com/zlx362211854/daily-study/issues/84) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-09-24
- [45. 为什么 V8 JS引擎更快？](https://github.com/zlx362211854/daily-study/issues/83) （`Created by` [VernKri](https://github.com/VernKri)）
+ [45. 为什么 V8 JS引擎更快？](https://github.com/zlx362211854/daily-study/issues/83) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
 * #### 2019-09-23
  [44.React怎么做数据的检查和变化](https://github.com/zlx362211854/daily-study/issues/82) （`Created by` [roxy0724](https://github.com/roxy0724)）
@@ -31,7 +34,7 @@
  [42. Map 和 WeakMap](https://github.com/zlx362211854/daily-study/issues/80) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-09-18
- [41. [] + {} 和 {} + [] 的 结果一样吗？为什么？](https://github.com/zlx362211854/daily-study/issues/79) （`Created by` [VernKri](https://github.com/VernKri)）
+ [41. [] + {} 和 {} + [] 的 结果一样吗？为什么？](https://github.com/zlx362211854/daily-study/issues/79) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
 * #### 2019-09-17
  [40.首屏加载优化方案](https://github.com/zlx362211854/daily-study/issues/78) （`Created by` [roxy0724](https://github.com/roxy0724)）
@@ -43,7 +46,7 @@
  [38. 验证密码](https://github.com/zlx362211854/daily-study/issues/76) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-09-11
- [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [VernKri](https://github.com/VernKri)）
+ [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
 * #### 2019-09-10
  [36. word-wrap、word-break和white-space有什么区别？](https://github.com/zlx362211854/daily-study/issues/74) （`Created by` [goldEli](https://github.com/goldEli)）
@@ -89,8 +92,5 @@
 
 * #### 2019-08-20
  [22.校验代码括弧是否有效](https://github.com/zlx362211854/daily-study/issues/53) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-08-19
- [21.请详细描述AJAX的工作原理](https://github.com/zlx362211854/daily-study/issues/51) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
