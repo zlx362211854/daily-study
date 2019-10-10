@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-11
+ [52. 时间切片](https://github.com/zlx362211854/daily-study/issues/90) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-10-10
  [51.谈谈对 Node.js 异步 IO 机制的理解](https://github.com/zlx362211854/daily-study/issues/89) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-21
  [23. 发布一个包到npm仓库，打印：hello world即可。](https://github.com/zlx362211854/daily-study/issues/54) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-08-20
- [22.校验代码括弧是否有效](https://github.com/zlx362211854/daily-study/issues/53) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
