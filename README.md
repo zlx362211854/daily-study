@@ -4,7 +4,7 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-10-12
- [test](https://github.com/zlx362211854/daily-study/issues/91) （`Created by` [goldEli](https://github.com/goldEli)）
+ [53. 说说浏览器的缓存机制](https://github.com/zlx362211854/daily-study/issues/92) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
 * #### 2019-10-11
  [52. 时间切片](https://github.com/zlx362211854/daily-study/issues/90) （`Created by` [goldEli](https://github.com/goldEli)）
