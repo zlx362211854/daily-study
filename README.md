@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-14
+ [54.给定两个数组，写一个方法来计算它们的交集和并集](https://github.com/zlx362211854/daily-study/issues/93) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-10-12
  [53. 说说浏览器的缓存机制](https://github.com/zlx362211854/daily-study/issues/92) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-08-23
  [25. 模拟实现 new 运算符](https://github.com/zlx362211854/daily-study/issues/56) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-08-22
- [24.解释DOM的事件流和事件委托](https://github.com/zlx362211854/daily-study/issues/55) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
