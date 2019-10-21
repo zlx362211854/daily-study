@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-22
+ [60. 柯里化](https://github.com/zlx362211854/daily-study/issues/99) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-10-21
  [59.举例封装 ES6 和 ES5 的继承（Son 继承 Father）](https://github.com/zlx362211854/daily-study/issues/98) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-03
  [31.介绍下前端加密的常见场景和方法](https://github.com/zlx362211854/daily-study/issues/68) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-09-02
- [30. JavaScript 继承](https://github.com/zlx362211854/daily-study/issues/67) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
