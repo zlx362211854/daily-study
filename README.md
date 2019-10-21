@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-21
+ [59.举例封装 ES6 和 ES5 的继承（Son 继承 Father）](https://github.com/zlx362211854/daily-study/issues/98) （`Created by` [vern-kri](https://github.com/vern-kri)）
+
 * #### 2019-10-18
  [58.解析 URL Params 为对象](https://github.com/zlx362211854/daily-study/issues/97) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-02
  [30. JavaScript 继承](https://github.com/zlx362211854/daily-study/issues/67) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-08-30
- [29. 说说React hook](https://github.com/zlx362211854/daily-study/issues/66) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
