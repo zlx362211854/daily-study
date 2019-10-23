@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-23
+ [61. nginx是什么，举例说明如何使用？](https://github.com/zlx362211854/daily-study/issues/100) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-10-22
  [60. 柯里化](https://github.com/zlx362211854/daily-study/issues/99) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-04
  [32. 说说transition、animation、transform的作用](https://github.com/zlx362211854/daily-study/issues/69) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-09-03
- [31.介绍下前端加密的常见场景和方法](https://github.com/zlx362211854/daily-study/issues/68) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
