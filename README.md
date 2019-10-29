@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-29
+ [65. 环境变量是什么？有什么作用？如何设置？](https://github.com/zlx362211854/daily-study/issues/104) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-10-28
  [64. Promise.then 执行顺序](https://github.com/zlx362211854/daily-study/issues/103) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-10
  [36. word-wrap、word-break和white-space有什么区别？](https://github.com/zlx362211854/daily-study/issues/74) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-09-09
- [35. 介绍下REST api和GraphQL api](https://github.com/zlx362211854/daily-study/issues/73) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
