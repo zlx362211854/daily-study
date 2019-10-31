@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-01
+ [68. Web Worker 优化性能](https://github.com/zlx362211854/daily-study/issues/107) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-10-30
  [66.typeof和instance of 检测数据类型有什么区别？](https://github.com/zlx362211854/daily-study/issues/105) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-12
  [38. 验证密码](https://github.com/zlx362211854/daily-study/issues/76) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-09-11
- [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
