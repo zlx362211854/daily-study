@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-10-30
+ [66.typeof和instance of 检测数据类型有什么区别？](https://github.com/zlx362211854/daily-study/issues/105) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-10-29
  [65. 环境变量是什么？有什么作用？如何设置？](https://github.com/zlx362211854/daily-study/issues/104) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-11
  [37. Webpack篇 —— 什么是 Tree Shaking ?](https://github.com/zlx362211854/daily-study/issues/75) （`Created by` [vern-kri](https://github.com/vern-kri)）
-
-* #### 2019-09-10
- [36. word-wrap、word-break和white-space有什么区别？](https://github.com/zlx362211854/daily-study/issues/74) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
