@@ -3,8 +3,11 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-04
+ [68. 说说grid布局和flex布局，grid布局和flex布局优劣势，各有什么适用场景？](https://github.com/zlx362211854/daily-study/issues/108) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-11-01
- [68. Web Worker 优化性能](https://github.com/zlx362211854/daily-study/issues/107) （`Created by` [goldEli](https://github.com/goldEli)）
+ [67. Web Worker 优化性能](https://github.com/zlx362211854/daily-study/issues/107) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-10-30
  [66.typeof和instance of 检测数据类型有什么区别？](https://github.com/zlx362211854/daily-study/issues/105) （`Created by` [roxy0724](https://github.com/roxy0724)）
@@ -89,8 +92,5 @@
 
 * #### 2019-09-16
  [39. 什么是高阶函数，高阶组件？](https://github.com/zlx362211854/daily-study/issues/77) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-09-12
- [38. 验证密码](https://github.com/zlx362211854/daily-study/issues/76) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
