@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-05
+ [69.['1', '2', '3'].map(parseInt)的输出结果是什么？['1', '2', '3'].fliter(parseInt)的输出结果是什么？为什么？](https://github.com/zlx362211854/daily-study/issues/109) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-11-04
  [68. 说说grid布局和flex布局，grid布局和flex布局优劣势，各有什么适用场景？](https://github.com/zlx362211854/daily-study/issues/108) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-17
  [40.首屏加载优化方案](https://github.com/zlx362211854/daily-study/issues/78) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-09-16
- [39. 什么是高阶函数，高阶组件？](https://github.com/zlx362211854/daily-study/issues/77) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
