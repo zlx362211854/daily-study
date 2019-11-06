@@ -3,9 +3,10 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-11-05
- [70. Fetch 与 Ajax 的对比](https://github.com/zlx362211854/daily-study/issues/110) （`Created by` [vern-kri](https://github.com/vern-kri)）
+* #### 2019-11-06
+ [70.Fetch 与 Ajax 的对比](https://github.com/zlx362211854/daily-study/issues/111) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
+* #### 2019-11-05
  [69.['1', '2', '3'].map(parseInt)的输出结果是什么？['1', '2', '3'].fliter(parseInt)的输出结果是什么？为什么？](https://github.com/zlx362211854/daily-study/issues/109) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
 * #### 2019-11-04
