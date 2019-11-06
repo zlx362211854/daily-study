@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-07
+ [71. 深克隆](https://github.com/zlx362211854/daily-study/issues/112) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-11-06
  [70.Fetch 与 Ajax 的对比](https://github.com/zlx362211854/daily-study/issues/111) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-19
  [42. Map 和 WeakMap](https://github.com/zlx362211854/daily-study/issues/80) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-09-18
- [41. [] + {} 和 {} + [] 的 结果一样吗？为什么？](https://github.com/zlx362211854/daily-study/issues/79) （`Created by` [vern-kri](https://github.com/vern-kri)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
