@@ -3,9 +3,6 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-11-08
- [72. 说说强缓存与协商缓存](https://github.com/zlx362211854/daily-study/issues/113) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
 * #### 2019-11-07
  [71. 深克隆](https://github.com/zlx362211854/daily-study/issues/112) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,5 +89,8 @@
 
 * #### 2019-09-20
  [43. 介绍下函数式编程和柯里化](https://github.com/zlx362211854/daily-study/issues/81) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+* #### 2019-09-19
+ [42. Map 和 WeakMap](https://github.com/zlx362211854/daily-study/issues/80) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
