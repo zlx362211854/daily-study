@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-08
+ [72. var c = d = 'xx' 这样声明变量有什么问题？](https://github.com/zlx362211854/daily-study/issues/114) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-11-07
  [71. 深克隆](https://github.com/zlx362211854/daily-study/issues/112) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-20
  [43. 介绍下函数式编程和柯里化](https://github.com/zlx362211854/daily-study/issues/81) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-09-19
- [42. Map 和 WeakMap](https://github.com/zlx362211854/daily-study/issues/80) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
