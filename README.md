@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-11
+ [73.在 ES6 中使用展开(spread)语法有什么好处? 它与剩余(rest)语法有什么不同?](https://github.com/zlx362211854/daily-study/issues/115) （`Created by` [roxy0724](https://github.com/roxy0724)）
+
 * #### 2019-11-08
  [72. var c = d = 'xx' 这样声明变量有什么问题？](https://github.com/zlx362211854/daily-study/issues/114) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-23
  [44.React怎么做数据的检查和变化](https://github.com/zlx362211854/daily-study/issues/82) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-09-20
- [43. 介绍下函数式编程和柯里化](https://github.com/zlx362211854/daily-study/issues/81) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
