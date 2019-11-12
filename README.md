@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-12
+ [74.前端如何通过网页启动本地 PC 应用](https://github.com/zlx362211854/daily-study/issues/116) （`Created by` [Nice-Vn](https://github.com/Nice-Vn)）
+
 * #### 2019-11-11
  [73.在 ES6 中使用展开(spread)语法有什么好处? 它与剩余(rest)语法有什么不同?](https://github.com/zlx362211854/daily-study/issues/115) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-24
  [45. 为什么 V8 JS引擎更快？](https://github.com/zlx362211854/daily-study/issues/83) （`Created by` [Nice-Vn](https://github.com/Nice-Vn)）
-
-* #### 2019-09-23
- [44.React怎么做数据的检查和变化](https://github.com/zlx362211854/daily-study/issues/82) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
