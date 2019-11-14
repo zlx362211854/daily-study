@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-14
+ [76.  Js有哪些作用域？](https://github.com/zlx362211854/daily-study/issues/118) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-11-13
  [75. getElementById 和 querySelector 有什么区别？](https://github.com/zlx362211854/daily-study/issues/117) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-26
  [47. 实现中文名根据首字母排序](https://github.com/zlx362211854/daily-study/issues/85) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-09-25
- [46. 如何获取页面渲染时间？](https://github.com/zlx362211854/daily-study/issues/84) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
