@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-18
+ [77. 谈谈对 React Suspense 的理解和看法](https://github.com/zlx362211854/daily-study/issues/119) （`Created by` [o1wish](https://github.com/o1wish)）
+
 * #### 2019-11-14
  [76.  Js有哪些作用域？](https://github.com/zlx362211854/daily-study/issues/118) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-09-27
  [48.前端如何实现即时通讯](https://github.com/zlx362211854/daily-study/issues/86) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-09-26
- [47. 实现中文名根据首字母排序](https://github.com/zlx362211854/daily-study/issues/85) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
