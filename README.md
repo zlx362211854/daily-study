@@ -3,9 +3,10 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-11-18
- [test](https://github.com/zlx362211854/daily-study/issues/122) （`Created by` [goldEli](https://github.com/goldEli)）
+* #### 2019-11-19
+ [79. useImperativeHandle](https://github.com/zlx362211854/daily-study/issues/123) （`Created by` [goldEli](https://github.com/goldEli)）
 
+* #### 2019-11-18
  [77. 谈谈对 React Suspense 的理解和看法](https://github.com/zlx362211854/daily-study/issues/121) （`Created by` [o1wish](https://github.com/o1wish)）
 
 * #### 2019-11-14
