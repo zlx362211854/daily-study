@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-11-18
+ [test](https://github.com/zlx362211854/daily-study/issues/122) （`Created by` [goldEli](https://github.com/goldEli)）
+
  [77. 谈谈对 React Suspense 的理解和看法](https://github.com/zlx362211854/daily-study/issues/121) （`Created by` [o1wish](https://github.com/o1wish)）
 
 * #### 2019-11-14
@@ -89,8 +91,5 @@
 
 * #### 2019-09-28
  [49.尽最大可能详细描述强缓存和协商缓存步骤](https://github.com/zlx362211854/daily-study/issues/87) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-09-27
- [48.前端如何实现即时通讯](https://github.com/zlx362211854/daily-study/issues/86) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
