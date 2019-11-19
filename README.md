@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-11-19
+ [80.xxx](https://github.com/zlx362211854/daily-study/issues/124) （`Created by` [o1wish](https://github.com/o1wish)）
+
  [79. useImperativeHandle](https://github.com/zlx362211854/daily-study/issues/123) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-11-18
@@ -89,8 +91,5 @@
 
 * #### 2019-09-30
  [50. 常见的浏览器内核有哪些?](https://github.com/zlx362211854/daily-study/issues/88) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-09-28
- [49.尽最大可能详细描述强缓存和协商缓存步骤](https://github.com/zlx362211854/daily-study/issues/87) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
