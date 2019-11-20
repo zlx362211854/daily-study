@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-11-20
+ [80.test](https://github.com/zlx362211854/daily-study/issues/128) （`Created by` [o1wish](https://github.com/o1wish)）
+
  [79. 说说 ES6 Iterator](https://github.com/zlx362211854/daily-study/issues/127) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
 * #### 2019-11-19
@@ -89,8 +91,5 @@
 
 * #### 2019-10-10
  [51.谈谈对 Node.js 异步 IO 机制的理解](https://github.com/zlx362211854/daily-study/issues/89) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-09-30
- [50. 常见的浏览器内核有哪些?](https://github.com/zlx362211854/daily-study/issues/88) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
