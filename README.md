@@ -3,9 +3,10 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-11-20
- [80.test](https://github.com/zlx362211854/daily-study/issues/128) （`Created by` [o1wish](https://github.com/o1wish)）
+* #### 2019-11-21
+ [80.defer和async区别](https://github.com/zlx362211854/daily-study/issues/129) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
+* #### 2019-11-20
  [79. 说说 ES6 Iterator](https://github.com/zlx362211854/daily-study/issues/127) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
 * #### 2019-11-19
