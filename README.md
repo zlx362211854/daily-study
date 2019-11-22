@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-22
+ [81.数组递归降维方法实现](https://github.com/zlx362211854/daily-study/issues/130) （`Created by` [o1wish](https://github.com/o1wish)）
+
 * #### 2019-11-21
  [80.defer和async区别](https://github.com/zlx362211854/daily-study/issues/129) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-10-11
  [52. 时间切片](https://github.com/zlx362211854/daily-study/issues/90) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-10-10
- [51.谈谈对 Node.js 异步 IO 机制的理解](https://github.com/zlx362211854/daily-study/issues/89) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
