@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-25
+ [82. useCallback vs useMemo](https://github.com/zlx362211854/daily-study/issues/131) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-11-22
  [81.数组递归降维方法实现](https://github.com/zlx362211854/daily-study/issues/130) （`Created by` [o1wish](https://github.com/o1wish)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-10-12
  [53. 说说浏览器的缓存机制](https://github.com/zlx362211854/daily-study/issues/92) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-10-11
- [52. 时间切片](https://github.com/zlx362211854/daily-study/issues/90) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
