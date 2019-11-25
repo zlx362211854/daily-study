@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-11-25
+ [83.tttttttttest的用法](https://github.com/zlx362211854/daily-study/issues/132) （`Created by` [o1wish](https://github.com/o1wish)）
+
  [82. useCallback vs useMemo](https://github.com/zlx362211854/daily-study/issues/131) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-11-22
@@ -89,8 +91,5 @@
 
 * #### 2019-10-14
  [54.给定两个数组，写一个方法来计算它们的交集和并集](https://github.com/zlx362211854/daily-study/issues/93) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-10-12
- [53. 说说浏览器的缓存机制](https://github.com/zlx362211854/daily-study/issues/92) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
