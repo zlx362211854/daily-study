@@ -3,9 +3,10 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-11-28
- [86.bug测试](https://github.com/zlx362211854/daily-study/issues/136) （`Created by` [o1wish](https://github.com/o1wish)）
+* #### 2019-11-29
+ [86. useEffect vs useLayoutEffect](https://github.com/zlx362211854/daily-study/issues/137) （`Created by` [goldEli](https://github.com/goldEli)）
 
+* #### 2019-11-28
  [85.发布订阅模式和观察者模式区别](https://github.com/zlx362211854/daily-study/issues/135) （`Created by` [o1wish](https://github.com/o1wish)）
 
 * #### 2019-11-27
