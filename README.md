@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-11-28
+ [86.bug测试](https://github.com/zlx362211854/daily-study/issues/136) （`Created by` [o1wish](https://github.com/o1wish)）
+
  [85.发布订阅模式和观察者模式区别](https://github.com/zlx362211854/daily-study/issues/135) （`Created by` [o1wish](https://github.com/o1wish)）
 
 * #### 2019-11-27
@@ -89,8 +91,5 @@
 
 * #### 2019-10-17
  [57. SSH是什么，如何实现SSH免密登陆？](https://github.com/zlx362211854/daily-study/issues/96) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-10-16
- [56. 实现 Vue 响应式](https://github.com/zlx362211854/daily-study/issues/95) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
