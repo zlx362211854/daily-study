@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-11-28
+ [85.发布订阅模式和观察者模式区别](https://github.com/zlx362211854/daily-study/issues/135) （`Created by` [o1wish](https://github.com/o1wish)）
+
 * #### 2019-11-27
  [84.V8 引擎如何进行垃圾内存的回收](https://github.com/zlx362211854/daily-study/issues/134) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-10-16
  [56. 实现 Vue 响应式](https://github.com/zlx362211854/daily-study/issues/95) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-10-15
- [55.谈谈对 CSP（Content Security Policy） 的理解](https://github.com/zlx362211854/daily-study/issues/94) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
