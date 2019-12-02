@@ -4,6 +4,8 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-12-02
+ [88.test???](https://github.com/zlx362211854/daily-study/issues/140) （`Created by` [o1wish](https://github.com/o1wish)）
+
  [87. 什么是敏捷开发？如何看待？](https://github.com/zlx362211854/daily-study/issues/139) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
 * #### 2019-11-29
@@ -89,8 +91,5 @@
 
 * #### 2019-10-21
  [59.举例封装 ES6 和 ES5 的继承（Son 继承 Father）](https://github.com/zlx362211854/daily-study/issues/98) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-10-18
- [58.解析 URL Params 为对象](https://github.com/zlx362211854/daily-study/issues/97) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
