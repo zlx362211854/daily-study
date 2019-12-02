@@ -3,9 +3,10 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-11-29
- [87.test的](https://github.com/zlx362211854/daily-study/issues/138) （`Created by` [o1wish](https://github.com/o1wish)）
+* #### 2019-12-02
+ [87. 什么是敏捷开发？如何看待？](https://github.com/zlx362211854/daily-study/issues/139) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
+* #### 2019-11-29
  [86. useEffect vs useLayoutEffect](https://github.com/zlx362211854/daily-study/issues/137) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-11-28
