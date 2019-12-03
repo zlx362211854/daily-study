@@ -3,9 +3,10 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-12-02
- [88.test???](https://github.com/zlx362211854/daily-study/issues/140) （`Created by` [o1wish](https://github.com/o1wish)）
+* #### 2019-12-03
+ [88.ssr 的原理](https://github.com/zlx362211854/daily-study/issues/141) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
+* #### 2019-12-02
  [87. 什么是敏捷开发？如何看待？](https://github.com/zlx362211854/daily-study/issues/139) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
 * #### 2019-11-29
