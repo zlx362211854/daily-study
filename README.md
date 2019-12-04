@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-12-04
+ [89.谈谈 IntersectionObserver](https://github.com/zlx362211854/daily-study/issues/142) （`Created by` [o1wish](https://github.com/o1wish)）
+
 * #### 2019-12-03
  [88.ssr 的原理](https://github.com/zlx362211854/daily-study/issues/141) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-10-22
  [60. 柯里化](https://github.com/zlx362211854/daily-study/issues/99) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-10-21
- [59.举例封装 ES6 和 ES5 的继承（Son 继承 Father）](https://github.com/zlx362211854/daily-study/issues/98) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
