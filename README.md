@@ -4,9 +4,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
 * #### 2019-12-05
- [1.xcsc?](https://github.com/zlx362211854/daily-study/issues/144) （`Created by` [o1wish](https://github.com/o1wish)）
+ [文瑞峰test123](https://github.com/zlx362211854/daily-study/issues/146) （`Created by` [goldEli](https://github.com/goldEli)）
 
- [90. 打造自己的 React 之 createElement](https://github.com/zlx362211854/daily-study/issues/143) （`Created by` [goldEli](https://github.com/goldEli)）
+ [90. requestIdleCallback](https://github.com/zlx362211854/daily-study/issues/145) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-12-04
  [89.谈谈 IntersectionObserver](https://github.com/zlx362211854/daily-study/issues/142) （`Created by` [o1wish](https://github.com/o1wish)）
