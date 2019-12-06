@@ -3,9 +3,10 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-12-05
- [文瑞峰test123](https://github.com/zlx362211854/daily-study/issues/146) （`Created by` [goldEli](https://github.com/goldEli)）
+* #### 2019-12-06
+ [91. 说说redux中间件](https://github.com/zlx362211854/daily-study/issues/147) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
+* #### 2019-12-05
  [90. requestIdleCallback](https://github.com/zlx362211854/daily-study/issues/145) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-12-04
