@@ -3,15 +3,11 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
-* #### 2019-12-11
- [94. what's the output and why?
-  console.log(name);
-  console.log(age);
-  var name = "Lydia";
-  let age = 21;
-}
+* #### 2019-12-12
+ [95. 说说WebAssembly](https://github.com/zlx362211854/daily-study/issues/151) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
-94](https://github.com/zlx362211854/daily-study/issues/150) （`Created by` [goldEli](https://github.com/goldEli)）
+* #### 2019-12-11
+ [94. what's the output and why?  ](https://github.com/zlx362211854/daily-study/issues/150) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2019-12-10
  [93.各种图片格式的特点](https://github.com/zlx362211854/daily-study/issues/149) （`Created by` [o1wish](https://github.com/o1wish)）
@@ -96,8 +92,5 @@
 
 * #### 2019-10-30
  [66.typeof和instance of 检测数据类型有什么区别？](https://github.com/zlx362211854/daily-study/issues/105) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-10-29
- [65. 环境变量是什么？有什么作用？如何设置？](https://github.com/zlx362211854/daily-study/issues/104) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
