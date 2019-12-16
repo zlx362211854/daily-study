@@ -3,6 +3,9 @@
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 #### issues
+* #### 2019-12-16
+ [96. 算法题](https://github.com/zlx362211854/daily-study/issues/152) （`Created by` [o1wish](https://github.com/o1wish)）
+
 * #### 2019-12-12
  [95. 说说WebAssembly](https://github.com/zlx362211854/daily-study/issues/151) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -89,8 +92,5 @@
 
 * #### 2019-11-01
  [67. Web Worker 优化性能](https://github.com/zlx362211854/daily-study/issues/107) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-10-30
- [66.typeof和instance of 检测数据类型有什么区别？](https://github.com/zlx362211854/daily-study/issues/105) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
