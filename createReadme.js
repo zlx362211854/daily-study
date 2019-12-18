@@ -16,7 +16,7 @@ request(
       let issues = `
  > daily-study 每日一问
 
- [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
+ [ 查看在线版本 ](http://cmszlx.win/daily-book/)
 #### issues`;
       try {
         body = JSON.parse(body);

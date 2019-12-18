@@ -18,6 +18,18 @@ app.use('/issues/new', function(req, res) {
       execSync('node ./createReadme.js');
     }
   } catch (err) {
-    console.log('some error has happend:', err);
+    console.log('some error has happend in issues hook:', err);
   }
 });
+// app.use('/comments/new', function(req, res) {
+//   console.log('有新的comment 💬');
+//   try {
+//     var payload = JSON.parse(req.body.payload);
+//     console.log("payload:", payload)
+//     if (payload.action === 'created' || payload.action === 'deleted' || payload.action === 'edited') {
+      
+//     }
+//   } catch (err) {
+//     console.log('some error has happend in comment hook:', err);
+//   }
+// });
