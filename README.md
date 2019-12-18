@@ -1,7 +1,10 @@
 
  > daily-study 每日一问
 
+ [online book](http://cmszlx.win/daily-book/)
+
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
+
 #### issues
 * #### 2019-12-18
  [98. 说一说一些常见的跨域场景](https://github.com/zlx362211854/daily-study/issues/154) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
