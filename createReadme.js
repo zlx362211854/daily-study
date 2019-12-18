@@ -5,7 +5,7 @@ var execSync = require('child_process').execSync;
 var moment = require('moment');
 request(
   {
-    url: 'https://api.github.com/repos/zlx362211854/daily-study/issues',
+    url: 'https://api.github.com/repos/zlx362211854/daily-study/issues?client_id=f5690a13cfb0791a8598&client_secret=98d8d9720fe4d89a700cc8ead6970271018f8e2a',
     headers: {
       'User-Agent':
         'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0'
