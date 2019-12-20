@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2019-12-20
+ [99.场景分析](https://github.com/zlx362211854/daily-study/issues/155) （`Created by` [o1wish](https://github.com/o1wish)）
+
 * #### 2019-12-18
  [98. 说一说一些常见的跨域场景](https://github.com/zlx362211854/daily-study/issues/154) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-06
  [70.Fetch 与 Ajax 的对比](https://github.com/zlx362211854/daily-study/issues/111) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-11-05
- [69.['1', '2', '3'].map(parseInt)的输出结果是什么？['1', '2', '3'].fliter(parseInt)的输出结果是什么？为什么？](https://github.com/zlx362211854/daily-study/issues/109) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
