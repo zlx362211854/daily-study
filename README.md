@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2019-12-23
+ [100. What's the output and why ?](https://github.com/zlx362211854/daily-study/issues/156) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-12-20
  [99.场景分析](https://github.com/zlx362211854/daily-study/issues/155) （`Created by` [o1wish](https://github.com/o1wish)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-07
  [71. 深克隆](https://github.com/zlx362211854/daily-study/issues/112) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-11-06
- [70.Fetch 与 Ajax 的对比](https://github.com/zlx362211854/daily-study/issues/111) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
