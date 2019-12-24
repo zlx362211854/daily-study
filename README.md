@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2019-12-24
+ [101.  说说typescript](https://github.com/zlx362211854/daily-study/issues/157) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-12-23
  [100. What's the output and why ?](https://github.com/zlx362211854/daily-study/issues/156) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-08
  [72. var c = d = 'xx' 这样声明变量有什么问题？](https://github.com/zlx362211854/daily-study/issues/114) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-07
- [71. 深克隆](https://github.com/zlx362211854/daily-study/issues/112) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
