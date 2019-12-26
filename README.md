@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2019-12-27
+ [104. 国家公祭日页面置灰](https://github.com/zlx362211854/daily-study/issues/160) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-12-26
  [103.实现归并排序](https://github.com/zlx362211854/daily-study/issues/159) （`Created by` [o1wish](https://github.com/o1wish)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-13
  [75. getElementById 和 querySelector 有什么区别？](https://github.com/zlx362211854/daily-study/issues/117) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-11-12
- [74.前端如何通过网页启动本地 PC 应用](https://github.com/zlx362211854/daily-study/issues/116) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
