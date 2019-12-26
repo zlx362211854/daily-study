@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2019-12-26
+ [103.实现归并排序](https://github.com/zlx362211854/daily-study/issues/159) （`Created by` [o1wish](https://github.com/o1wish)）
+
 * #### 2019-12-25
  [102.http proxy 的原理是什么](https://github.com/zlx362211854/daily-study/issues/158) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-12
  [74.前端如何通过网页启动本地 PC 应用](https://github.com/zlx362211854/daily-study/issues/116) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-11-11
- [73.在 ES6 中使用展开(spread)语法有什么好处? 它与剩余(rest)语法有什么不同?](https://github.com/zlx362211854/daily-study/issues/115) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
