@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2019-12-30
+ [105. 把 m 个同样的苹果分放在 n 个同样的篮子里，允许有的蓝子空 着不放，共有多少种不同的分法？](https://github.com/zlx362211854/daily-study/issues/161) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2019-12-27
  [104. 国家公祭日页面置灰](https://github.com/zlx362211854/daily-study/issues/160) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-14
  [76.  Js有哪些作用域？](https://github.com/zlx362211854/daily-study/issues/118) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-13
- [75. getElementById 和 querySelector 有什么区别？](https://github.com/zlx362211854/daily-study/issues/117) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
