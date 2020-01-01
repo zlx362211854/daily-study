@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-01-02
+ [108. 快排算法](https://github.com/zlx362211854/daily-study/issues/163) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2019-12-31
  [106.react hooks 中如何模拟 componentDidMount](https://github.com/zlx362211854/daily-study/issues/162) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-19
  [78. useImperativeHandle](https://github.com/zlx362211854/daily-study/issues/123) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-11-18
- [77. 谈谈对 React Suspense 的理解和看法](https://github.com/zlx362211854/daily-study/issues/121) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
