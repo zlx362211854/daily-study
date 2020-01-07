@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-01-08
+ [111. 冒泡排序](https://github.com/zlx362211854/daily-study/issues/165) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-01-03
  [108. 容器(如 docker)与虚拟机有什么不同？](https://github.com/zlx362211854/daily-study/issues/164) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-21
  [80.defer和async区别](https://github.com/zlx362211854/daily-study/issues/129) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-11-20
- [79. 说说 ES6 Iterator](https://github.com/zlx362211854/daily-study/issues/127) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
