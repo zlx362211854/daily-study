@@ -6,8 +6,11 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-01-09
+ [110. react16 的diff算法相较于15有什么改动？](https://github.com/zlx362211854/daily-study/issues/166) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-01-08
- [111. 冒泡排序](https://github.com/zlx362211854/daily-study/issues/165) （`Created by` [goldEli](https://github.com/goldEli)）
+ [109. 冒泡排序](https://github.com/zlx362211854/daily-study/issues/165) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2020-01-03
  [108. 容器(如 docker)与虚拟机有什么不同？](https://github.com/zlx362211854/daily-study/issues/164) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
@@ -92,8 +95,5 @@
 
 * #### 2019-11-22
  [81.数组递归降维方法实现](https://github.com/zlx362211854/daily-study/issues/130) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-11-21
- [80.defer和async区别](https://github.com/zlx362211854/daily-study/issues/129) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
