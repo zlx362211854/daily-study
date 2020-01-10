@@ -16,7 +16,7 @@ request(
       let issues = `
  > daily-study 每日一问
 
- [online book](http://cmszlx.win/daily-book/)
+ [online book](https://zlx362211854.github.io/daily-book/)
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
