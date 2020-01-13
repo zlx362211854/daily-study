@@ -1,11 +1,14 @@
 
  > daily-study 每日一问
 
- [online book](http://cmszlx.win/daily-book/)
+ [online book](https://zlx362211854.github.io/daily-book/)
 
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-01-14
+ [113. 红黑树](https://github.com/zlx362211854/daily-study/issues/168) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-01-10
  [111.实现一个 flattenDeep 函数，把嵌套的数组扁平化](https://github.com/zlx362211854/daily-study/issues/167) （`Created by` [roxy0724](https://github.com/roxy0724)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-11-26
  [83. 递归函数输出是什么，为什么？](https://github.com/zlx362211854/daily-study/issues/133) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-25
- [82. useCallback vs useMemo](https://github.com/zlx362211854/daily-study/issues/131) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
