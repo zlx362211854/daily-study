@@ -6,8 +6,11 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-08
+ [113. JS中判断null、undefined与NaN的方法](https://github.com/zlx362211854/daily-study/issues/169) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-01-14
- [113. 红黑树](https://github.com/zlx362211854/daily-study/issues/168) （`Created by` [goldEli](https://github.com/goldEli)）
+ [112. 红黑树](https://github.com/zlx362211854/daily-study/issues/168) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2020-01-10
  [111.实现一个 flattenDeep 函数，把嵌套的数组扁平化](https://github.com/zlx362211854/daily-study/issues/167) （`Created by` [roxy0724](https://github.com/roxy0724)）
@@ -92,8 +95,5 @@
 
 * #### 2019-11-27
  [84.V8 引擎如何进行垃圾内存的回收](https://github.com/zlx362211854/daily-study/issues/134) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-11-26
- [83. 递归函数输出是什么，为什么？](https://github.com/zlx362211854/daily-study/issues/133) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
