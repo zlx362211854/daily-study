@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-11
+ [116. 十进制转二进制](https://github.com/zlx362211854/daily-study/issues/172) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-02-10
  [115.  redux 中 connect的原理](https://github.com/zlx362211854/daily-study/issues/171) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-02
  [87. 什么是敏捷开发？如何看待？](https://github.com/zlx362211854/daily-study/issues/139) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-11-29
- [86. useEffect vs useLayoutEffect](https://github.com/zlx362211854/daily-study/issues/137) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
