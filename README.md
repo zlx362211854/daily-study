@@ -6,8 +6,11 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-10
+ [115.  redux 中 connect的原理](https://github.com/zlx362211854/daily-study/issues/171) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-02-09
- [115. 模拟实现正则中的星号（*）](https://github.com/zlx362211854/daily-study/issues/170) （`Created by` [goldEli](https://github.com/goldEli)）
+ [114. 模拟实现正则中的星号（*）](https://github.com/zlx362211854/daily-study/issues/170) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2020-02-08
  [113. JS中判断null、undefined与NaN的方法](https://github.com/zlx362211854/daily-study/issues/169) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
@@ -92,8 +95,5 @@
 
 * #### 2019-11-29
  [86. useEffect vs useLayoutEffect](https://github.com/zlx362211854/daily-study/issues/137) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-11-28
- [85.发布订阅模式和观察者模式区别](https://github.com/zlx362211854/daily-study/issues/135) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
