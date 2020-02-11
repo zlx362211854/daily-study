@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-12
+ [118.  说说webpack 中 loaders 和 plugins 的区别](https://github.com/zlx362211854/daily-study/issues/173) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-02-11
  [116. 十进制转二进制](https://github.com/zlx362211854/daily-study/issues/172) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-03
  [88.ssr 的原理](https://github.com/zlx362211854/daily-study/issues/141) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-12-02
- [87. 什么是敏捷开发？如何看待？](https://github.com/zlx362211854/daily-study/issues/139) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
