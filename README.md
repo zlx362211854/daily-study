@@ -7,7 +7,7 @@
 
 #### issues
 * #### 2020-02-12
- [118.  说说webpack 中 loaders 和 plugins 的区别](https://github.com/zlx362211854/daily-study/issues/173) （`Created by` [goldEli](https://github.com/goldEli)）
+ [117. 5. class super做了什么](https://github.com/zlx362211854/daily-study/issues/174) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
 * #### 2020-02-11
  [116. 十进制转二进制](https://github.com/zlx362211854/daily-study/issues/172) （`Created by` [goldEli](https://github.com/goldEli)）
