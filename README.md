@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-14
+ [119. webpack 文件hash的几种方式](https://github.com/zlx362211854/daily-study/issues/176) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-02-13
  [118. 说说 webpack 中 loaders 和 plugins 的区别 ](https://github.com/zlx362211854/daily-study/issues/175) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-05
  [90. requestIdleCallback](https://github.com/zlx362211854/daily-study/issues/145) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-12-04
- [89.谈谈 IntersectionObserver](https://github.com/zlx362211854/daily-study/issues/142) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
