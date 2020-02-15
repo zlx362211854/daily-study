@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-15
+ [120. 什么是中台？](https://github.com/zlx362211854/daily-study/issues/177) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-02-14
  [119. webpack 文件hash的几种方式](https://github.com/zlx362211854/daily-study/issues/176) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-06
  [91. 说说redux中间件](https://github.com/zlx362211854/daily-study/issues/147) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-12-05
- [90. requestIdleCallback](https://github.com/zlx362211854/daily-study/issues/145) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
