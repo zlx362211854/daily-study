@@ -6,8 +6,11 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-18
+ [123. Commonjs规范和AMD规范的不同](https://github.com/zlx362211854/daily-study/issues/180) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-02-17
- [121. 模拟实现 call 方法](https://github.com/zlx362211854/daily-study/issues/179) （`Created by` [goldEli](https://github.com/goldEli)）
+ [122. 模拟实现 call 方法](https://github.com/zlx362211854/daily-study/issues/179) （`Created by` [goldEli](https://github.com/goldEli)）
 
 * #### 2020-02-16
  [121. websocket网络层面底层原理](https://github.com/zlx362211854/daily-study/issues/178) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
@@ -92,8 +95,5 @@
 
 * #### 2019-12-11
  [94. what's the output and why?  ](https://github.com/zlx362211854/daily-study/issues/150) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-12-10
- [93.各种图片格式的特点](https://github.com/zlx362211854/daily-study/issues/149) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
