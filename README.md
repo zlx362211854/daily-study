@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-19
+ [124. 为什么 0.1+0.2 !== 0.3 ？](https://github.com/zlx362211854/daily-study/issues/181) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-02-18
  [123. Commonjs规范和AMD规范的不同](https://github.com/zlx362211854/daily-study/issues/180) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-12
  [95. 说说WebAssembly](https://github.com/zlx362211854/daily-study/issues/151) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-12-11
- [94. what's the output and why?  ](https://github.com/zlx362211854/daily-study/issues/150) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
