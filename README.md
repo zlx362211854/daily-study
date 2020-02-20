@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-20
+ [125. 什么是单例模式？](https://github.com/zlx362211854/daily-study/issues/182) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-02-19
  [124. 为什么 0.1+0.2 !== 0.3 ？](https://github.com/zlx362211854/daily-study/issues/181) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-16
  [96. 算法题](https://github.com/zlx362211854/daily-study/issues/152) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-12-12
- [95. 说说WebAssembly](https://github.com/zlx362211854/daily-study/issues/151) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
