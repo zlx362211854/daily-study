@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-24
+ [127. 如何设计一个前端大文件断点续传的功能？](https://github.com/zlx362211854/daily-study/issues/184) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-02-21
  [126. flex 属性](https://github.com/zlx362211854/daily-study/issues/183) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-18
  [98. 说一说一些常见的跨域场景](https://github.com/zlx362211854/daily-study/issues/154) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-12-17
- [97. What's the output and why?](https://github.com/zlx362211854/daily-study/issues/153) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
