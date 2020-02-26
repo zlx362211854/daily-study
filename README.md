@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-26
+ [129. js如何多继承？](https://github.com/zlx362211854/daily-study/issues/186) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-02-25
  [128. 回溯算法](https://github.com/zlx362211854/daily-study/issues/185) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-23
  [100. What's the output and why ?](https://github.com/zlx362211854/daily-study/issues/156) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-12-20
- [99.场景分析](https://github.com/zlx362211854/daily-study/issues/155) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
