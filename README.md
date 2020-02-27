@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-02-27
+ [130. 自动生成括号](https://github.com/zlx362211854/daily-study/issues/187) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-02-26
  [129. js如何多继承？](https://github.com/zlx362211854/daily-study/issues/186) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-24
  [101.  说说typescript](https://github.com/zlx362211854/daily-study/issues/157) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
-
-* #### 2019-12-23
- [100. What's the output and why ?](https://github.com/zlx362211854/daily-study/issues/156) （`Created by` [goldEli](https://github.com/goldEli)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
