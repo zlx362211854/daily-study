@@ -6,6 +6,12 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-03-03
+ [132. 将类改写成函数](https://github.com/zlx362211854/daily-study/issues/189) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
+* #### 2020-02-28
+ [131. tcp和udp的区别](https://github.com/zlx362211854/daily-study/issues/188) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
+
 * #### 2020-02-27
  [130. 自动生成括号](https://github.com/zlx362211854/daily-study/issues/187) （`Created by` [goldEli](https://github.com/goldEli)）
 
@@ -89,11 +95,5 @@
 
 * #### 2019-12-26
  [103.实现归并排序](https://github.com/zlx362211854/daily-study/issues/159) （`Created by` [o1wish](https://github.com/o1wish)）
-
-* #### 2019-12-25
- [102.http proxy 的原理是什么](https://github.com/zlx362211854/daily-study/issues/158) （`Created by` [roxy0724](https://github.com/roxy0724)）
-
-* #### 2019-12-24
- [101.  说说typescript](https://github.com/zlx362211854/daily-study/issues/157) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
