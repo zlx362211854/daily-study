@@ -6,6 +6,9 @@
  [download daily-study manager for more experience](https://github.com/zlx362211854/issues-manager)
 
 #### issues
+* #### 2020-03-04
+ [133. 画一个loading图标](https://github.com/zlx362211854/daily-study/issues/190) （`Created by` [goldEli](https://github.com/goldEli)）
+
 * #### 2020-03-03
  [132. 将类改写成函数](https://github.com/zlx362211854/daily-study/issues/189) （`Created by` [zlx362211854](https://github.com/zlx362211854)）
 
@@ -92,8 +95,5 @@
 
 * #### 2019-12-27
  [104. 国家公祭日页面置灰](https://github.com/zlx362211854/daily-study/issues/160) （`Created by` [goldEli](https://github.com/goldEli)）
-
-* #### 2019-12-26
- [103.实现归并排序](https://github.com/zlx362211854/daily-study/issues/159) （`Created by` [o1wish](https://github.com/o1wish)）
 
  [view more](https://github.com/zlx362211854/daily-study/issues)
